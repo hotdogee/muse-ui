@@ -52,7 +52,7 @@ import autoComplete from './autoComplete'
 import pagination from './pagination'
 import * as timeLine from './timeLine'
 
-import * as grid from './grid'
+// import * as grid from './grid'
 
 import * as flexbox from './flexbox'
 import config from './config'
@@ -106,7 +106,7 @@ const components = {
   timePicker,
   ...stepper,
   autoComplete,
-  ...grid,
+  // ...grid,
   ...flexbox,
   pagination
 }

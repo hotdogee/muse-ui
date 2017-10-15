@@ -286,10 +286,6 @@ a {
 .mu-pagination-item.disabled {
   color: rgba(255, 255, 255, 0.3);
 }
-.mu-paper {
-  background-color: #424242;
-  color: #ffffff;
-}
 .mu-picker {
   background-color: #424242;
 }
@@ -304,6 +300,10 @@ a {
   color: rgba(255, 255, 255, 0.7);
 }
 .mu-picker-item.selected {
+  color: #ffffff;
+}
+.mu-paper {
+  background-color: #424242;
   color: #ffffff;
 }
 .mu-popover {
